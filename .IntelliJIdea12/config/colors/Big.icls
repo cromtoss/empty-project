@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scheme name="Big" version="124" parent_scheme="Default">
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <colors />
+  <attributes>
+    <option name="BREAKPOINT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="ffe3df" />
+      </value>
+    </option>
+    <option name="SCOPE_KEY_All">
+      <value />
+    </option>
+    <option name="SCOPE_KEY_Non-Project Files">
+      <value />
+    </option>
+    <option name="SCOPE_KEY_Problems">
+      <value />
+    </option>
+    <option name="SCOPE_KEY_Production">
+      <value />
+    </option>
+    <option name="SCOPE_KEY_Project Files">
+      <value />
+    </option>
+    <option name="SCOPE_KEY_Tests">
+      <value />
+    </option>
+  </attributes>
+</scheme>
+
